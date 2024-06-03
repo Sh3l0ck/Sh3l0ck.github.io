@@ -10,4 +10,6 @@ end
 
 #gem 'github-pages', group: :jekyll_plugins
 
+gem 'tzinfo', '~> 2.0'
+
 gem 'jekyll-compose', '~> 0.12.0'
