@@ -10,4 +10,4 @@ end
 
 #gem 'github-pages', group: :jekyll_plugins
 
-#gem 'jekyll-compose', '~> 0.12.0'
+gem 'jekyll-compose', '~> 0.12.0'
