@@ -8,4 +8,6 @@ group :test do
   gem "html-proofer", "~> 5.0"
 end
 
-#gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
+
+gem 'jekyll-compose', '~> 0.12.0'
