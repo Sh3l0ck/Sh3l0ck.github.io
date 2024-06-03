@@ -12,7 +12,6 @@ Maybe anything else I become intrested in overtime
 
 BUT FINALLYY BUILT THE BLOG WEBSITE I HAVE BEEN MEANING TO BUILD IS OVER HEEERREEE!!!!!
 
-![alt text](/images/yeessss.webp)
 
 
 Fist things first it's *god damn* 2am in the morning and I do have an exam in 2 days. Will try to post a blog on how to set up your own blog website using Hugo bit like how I did it as soon as possible
