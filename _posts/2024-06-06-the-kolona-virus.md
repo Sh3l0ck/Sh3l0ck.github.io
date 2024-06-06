@@ -14,7 +14,7 @@ OMG! My picture is corrupted with the Kolona virus! I managed to get the virus s
 
 ## Solution
 
-First, to begin, I downloaded 2 files: a zip file ([The Kolona Virus](assets/img/TheKolonaVirus/The_Kolona_Virus.zip)) and the corrupted img file ([kolonaFlag](assets/img/TheKolonaVirus/flag.kolona)). Once downloaded and unzipped the zip file I got 3 files: `kolona_virus`, `MN908947`, and `spread_kolona.py`.
+First, to begin, I downloaded 2 files: a zip file ([The Kolona Virus](/assets/img/TheKolonaVirus/The_Kolona_Virus.zip)) and the corrupted img file ([kolonaFlag](/assets/img/TheKolonaVirus/flag.kolona)). Once downloaded and unzipped the zip file I got 3 files: `kolona_virus`, `MN908947`, and `spread_kolona.py`.
 
 The hint in SKR CTF you will get "Have you tried to "print" the virus?". So following these wise words, I just played around with the Python file, changed the last `exec()` command to a `print()` to print the virus.
 
@@ -43,7 +43,7 @@ UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbc in position 0: invalid 
 
 After searching online for a bit, I have come across a solution on Stack Overflow. It seems that you cannot use "r" and "w" on JPGs without errors, so after changing that and rewriting the code, I finally get the uncorrupted image.
 
-![flag](assets/img/TheKolonaVirus/flag.jpg)
+![flag](/assets/img/TheKolonaVirus/flag.jpg)
 
 
 **Flag:** SKR{V1rus_1s_3verywhere_pl3453_st4y_4t_H0me}

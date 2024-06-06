@@ -194,7 +194,7 @@ And just gotta run that ...
 
 And finally got the png
 
-![flag](assets/img/TheKolonaVirusV2/decrypted_flag.png)
+![flag](/assets/img/TheKolonaVirusV2/decrypted_flag.png)
 
 
 
@@ -205,5 +205,5 @@ Završi!!!
 
 Finally finished my first hard level CTF 
 
-![emoji](assets\img\TheKolonaVirusV2\image-1.png)
+![emoji](/assets\img\TheKolonaVirusV2\image-1.png)
 

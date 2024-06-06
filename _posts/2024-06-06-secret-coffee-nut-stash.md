@@ -10,20 +10,20 @@ tags: [squ1rrelCTF, Reverse Engineering]
 
 You'll never be able to break into my secret Java coffee nut stash!
 
-**File:** ([CoffeNutStash.class](assets/img/SecretCoffeeNutSlash/CoffeNutStash.class))
+**File:** ([CoffeNutStash.class](/assets/img/SecretCoffeeNutSlash/CoffeNutStash.class))
 
 **Type:** Reverse Engineering
 
 # Solutions
 First things first after downloading the file given to me in this challenge. I noticed it was a java compiled file so I immidiately threw it into ghidra to decompile and understand the code. 
 
-![ghidra_screenshot](assets/img/SecretCoffeeNutSlash/ghidra_screenshot.png)
+![ghidra_screenshot](/assets/img/SecretCoffeeNutSlash/ghidra_screenshot.png)
 
 Got a bunch of nonesense I couldn't quite understand.....
 
 So I decided to use a proper java decompiler (jadx-gui) to decompile and try to understand this file
 
-![jadx-gui_screenshot](assets/img/SecretCoffeeNutSlash/jadx-gui_screenshot.png)
+![jadx-gui_screenshot](/assets/img/SecretCoffeeNutSlash/jadx-gui_screenshot.png)
 
 Finally some code I can understand.
 
