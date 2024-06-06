@@ -15,7 +15,7 @@ While browsing through the CTFLearn medium level challenges this challenge ciugh
 At first sight I was very cofused on what to do to solve this problem till i inspected the webpage to find the username 
 and password commented out. It seemed from here on it was an uphill battle
 
-![Webpage](/assets/img/PostPractiseWe/Screenshot-2024-02-28-144421.png)
+![Webpage](/assets/img/PostPractiseWeb/Screenshot-2024-02-28-144421.png)
 
 
 # Solution
