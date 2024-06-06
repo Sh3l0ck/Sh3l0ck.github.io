@@ -6,6 +6,12 @@ order: 4
 
 
 
-I'm **Sh3l0ck**, a cyber warrior obsessed with the adrenaline rush of Capture The Flag (CTF) competitions and the intricate puzzles of Hack The Box (HTB). My days are filled with cracking the toughest challenges, hunting for exploits, and leaving no stone unturned in the cyber realm. From top finishes at DEFCON qualifiers to owning over 100 HTB boxes, I'm always pushing the limits of what's possible. Welcome to my world of digital conquest!
+I'm **Sh3l0ck**, a student hoping to see how far he can go in ctf challenges adn Hack the Boxes
 
-![CTF Glory](assets/img/sherlock-pic.jpeg)
+If you're here, hope you learn and enjoy something :)
+
+“The game is afoot" - Sherlock Holmes
+
+
+
+![Daffy Duck](https://tenor.com/view/detective-daffy-investigate-police-looney-tunes-gif-17130539)
