@@ -14,4 +14,4 @@ If you're here, hope you learn and enjoy something :)
 
 
 
-![Daffy Duck](https://tenor.com/view/detective-daffy-investigate-police-looney-tunes-gif-17130539)
+![Daffy Duck](https://tenor.com/bj2Bb.gif)
