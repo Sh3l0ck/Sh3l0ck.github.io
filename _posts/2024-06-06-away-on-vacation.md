@@ -18,15 +18,15 @@ One of the easier OSI challenges
 
 First I just extracted the file from the away-on-vacation.tar.gz file
 
-![mp3file](assets\img\AwayOnVacation\beepboopbeep.PNG)
+![mp3file](assets/img/AwayOnVacation/beepboopbeep.PNG)
 
 I got a mp3 file i ran it and listened to what appears to be an automated message requesting me to contact Michelangelo Corning and i was given an email address that proved useless so I did a simple search on bing for him to get an instagram account in his name
 
-![websearch](assets\img\AwayOnVacation\bingsearch.PNG)
+![websearch](assets/img/AwayOnVacation/bingsearch.PNG)
 
 Opened up his instagram file to find the flag on one of his posts
 
-![instagrampost](assets\img\AwayOnVacation\instagrampost.PNG)
+![instagrampost](assets/img/AwayOnVacation/instagrampost.PNG)
 
 **Flag:** irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}
 
