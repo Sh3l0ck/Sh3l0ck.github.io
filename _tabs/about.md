@@ -13,5 +13,3 @@ If you're here, hope you learn and enjoy something :)
 “The game is afoot" - Sherlock Holmes
 
 
-
-![Daffy Duck](https://tenor.com/bj2Bb.gif)
