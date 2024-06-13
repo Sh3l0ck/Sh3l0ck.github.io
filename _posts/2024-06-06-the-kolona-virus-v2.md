@@ -7,7 +7,7 @@ tags: [SKRCtf, Reverse Engineering]
 ---
 
 
-# Challenge
+## Challenge
 
 OMFG!! The virus evolved this time! I only managed to get the virus python compiled file
 I have a important file corrupted by the virus, please help me recover it again, I will give you flag for reward!

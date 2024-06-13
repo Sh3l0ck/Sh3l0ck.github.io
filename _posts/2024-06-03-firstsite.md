@@ -16,7 +16,7 @@ Maybe anything else I become intrested in overtime
 
 (❁´◡`❁) BUT FINALLYY BUILT THE BLOG WEBSITE I HAVE BEEN MEANING TO BUILD IS OVER HEEERREEE!!!!!
 
-![Alt text](/assets/img/spongebob-squarepants.gif)
+![Spoge Bob gif](/assets/img/spongebob-squarepants.gif)
 
 
 Fist things first I do have an exam in a few days. Will try to post a blog on how to set up your own blog website bit like how I did it as soon as possible
