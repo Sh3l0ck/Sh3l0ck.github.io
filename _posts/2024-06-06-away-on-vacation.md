@@ -3,7 +3,7 @@ layout: post
 title: Away On Vacation
 date: '2024-05-14 00:00:00 +0000'
 categories: [WriteUps]
-tags: [Forensics]  
+tags: [forensics]  
 ---
 
 ## OSI Challenge

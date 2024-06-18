@@ -3,7 +3,7 @@ layout: post
 title: PostPractise - Web
 date: '2024-05-14 00:00:00 +0000'
 categories: [WriteUps]
-tags: [CTFLearn, Web]  
+tags: [ctflLearn, web]  
 ---
 
 # Intro

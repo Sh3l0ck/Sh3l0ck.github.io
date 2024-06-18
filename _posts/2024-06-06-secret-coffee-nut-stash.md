@@ -3,7 +3,7 @@ layout: post
 title: Secret Coffee Nut Stash
 date: '2024-05-14 00:00:00 +0000'
 categories: [WriteUps]
-tags: [squ1rrelCTF, Reverse Engineering]  
+tags: [squ1rrelctf, reverse engineering]  
 ---
 
 # Secret Coffee Nut Stash

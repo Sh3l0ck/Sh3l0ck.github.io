@@ -3,7 +3,7 @@ layout: post
 title: The Kolona Virus v2
 date: '2024-05-15 00:00:00 +0000'
 categories: [WriteUps]
-tags: [SKRCtf, Reverse Engineering]  
+tags: [skrctf, reverse engineering]  
 ---
 
 
