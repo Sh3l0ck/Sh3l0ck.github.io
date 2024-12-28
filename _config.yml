@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-# baseurl: "/Sh3l0ck.github.io"
+# baseurl: "/Sh3l0ck.github.io" //DO NOT CHANGE BREAKS ENTIRE SITE ESPECIALLY TEST CASES
 
 # ------------ The following options are not recommended to be modified ------------------
 
