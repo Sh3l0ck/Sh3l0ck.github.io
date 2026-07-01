@@ -12,13 +12,7 @@ Not a CTF this time, but something that hit way closer to home. Late June 2026, 
 
 Spoiler: this wasn't some crazy nation state zero day. It was a known, patched vulnerability in a Joomla plugin that a lot of people just didn't get around to updating. Classic.
 
-{%
-  include embed/video.html
-  src='/assets/img/WhatsGoingOnWithMalaysiaGovt/Facepalm_Meme_Video_Download.mp4'
-  autoplay=true
-  loop=true
-  muted=true
-%}
+![Facepalm Meme](/assets/img/WhatsGoingOnWithMalaysiaGovt/Facepalm_Meme_Video_Download.gif)
 
 <!--[insert reaction gif here](/assets/img/WhatsGoingOnWithMalaysiaGovt/Facepalm_Meme_Video_Download.mp4) -->
 <!-- meme idea: facepalm energy, or "this is why we can't have nice things" vibe -->
@@ -50,13 +44,7 @@ The MOH site got the worst of it, defaced by a group going by "Mushr00w," with s
 ![MOH hacked site](/assets/img/WhatsGoingOnWithMalaysiaGovt/moh-hacked.jpeg)
 
 
-{%
-  include embed/video.html
-  src='assets/img/WhatsGoingOnWithMalaysiaGovt/stressed-out-reaction.mp4'
-  autoplay=true
-  loop=true
-  muted=true
-%}
+![Stressed out gif](/assets/img/WhatsGoingOnWithMalaysiaGovt/stressed-out.gif)
 
 
 # Takeaway
