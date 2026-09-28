@@ -6,7 +6,7 @@ order: 4
 
 
 
-I'm **Sh3l0ck**, a student hoping to see how far he can go in ctf challenges adn Hack the Boxes
+I'm **Sh3l0ck**, an enthusiast simply curious about cybersecurity and in the journey of learning more everyday
 
 If you're here, hope you learn and enjoy something :)
 
