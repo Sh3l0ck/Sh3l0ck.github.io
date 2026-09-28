@@ -412,9 +412,16 @@ Activity history sealed it, Edge had the PDF open `15:38:27` to `15:45:05`, a wi
 
 That's 3 of the 4 done. Bottle Out's flag 10 still annoys me, but overall it was a challenging and intresting ctf to participate in. Fourth Sherlock write-up coming separately once it's ready.
 
+AYYYY finishd 2 whole sherlocks and 2 halves. COmpleted 38/111 flags ranking me 527TH place.
+
+![Bottled Out Main pic](/assets/img/HolmesCTF2026/result.png){: height="200" }
+
 Honestly. Damn did I do a lot better then I thought I would.
 
 ![I am smart](/assets/img/HolmesCTF2026/smart.gif)
+
+
+
 
 Auf Wiedersehen!!!
 
